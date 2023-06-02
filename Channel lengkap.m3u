@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/1200px-BTV_%28Indonesia%29_logo.svg.png" group-title="TV Nasional",BTV
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162513
 #EXTINF:-1 tvg-id="ext" tvg-name="RCTI" tvg-logo="https://e7.pngegg.com/pngimages/499/465/png-clipart-rcti-logo-streaming-media-television-media-nusantara-citra-televisi-indonesia-television-blue.png" group-title="TV Nasional",RCTI
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157591
 #EXTINF:-1 tvg-id="ext" tvg-name="SCTV" tvg-logo="https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2021/11/18/1142966277.jpg" group-title="TV Nasional",SCTV
@@ -23,8 +25,6 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157579
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165060
 #EXTINF:-1 tvg-id="ext" tvg-name="Metro TV" tvg-logo="https://3.bp.blogspot.com/-v_1lei3E3Fg/W-7DUIvKeAI/AAAAAAAAFAA/dC0JphZUqCY_jqRIyo6N5J-eiUK_5HYEwCLcBGAs/w1200-h630-p-k-no-nu/MetroTV.png" group-title="TV Nasional",Metro TV
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165059
-#EXTINF:-1 tvg-id="ext" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/1200px-BTV_%28Indonesia%29_logo.svg.png" group-title="TV Nasional",BTV
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162513
 #EXTINF:-1 tvg-id="ext" tvg-name="RCTI" tvg-logo="" group-title="NATIONAL TV",RCTI
 https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="NATIONAL TV",RCTI (T)
@@ -151,28 +151,6 @@ https://github.com/mimipipi22/nontontv/raw/main/FMX/garuda.m3u8
 https://github.com/mimipipi22/nontontv/raw/main/FMX/balaikota.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Balai Kota Bandung (F)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/13/Bandungtv_2011.png/180px-Bandungtv_2011.png" group-title="NATIONAL TV",Balai Kota Bandung (F)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/balaikotabdg.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Nasional 2",RCTI
-https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="RCTI (cb)" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="Nasional 2",RCTI (cb)
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="GTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Nasional 2",GTV
-https://nxanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="GTV (cb)" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png" group-title="Nasional 2",GTV (cb)
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="MNCTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Nasional 2",MNCTV
-https://nxanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="MNCTV (cb)" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="Nasional 2",MNCTV (cb)
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="iNews" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png" group-title="Nasional 2",iNews
-https://nxanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Nasional 2",ANTV
-https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="ANTV (cb)" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Nasional 2",ANTV (cb)
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="ANTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_115.png" group-title="Nasional 2",ANTV
-https://github.com/mimipipi22/nontontv/raw/main/FMX/antv.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Indosiar (cb)" tvg-logo="https://i.postimg.cc/Bbd13gLD/20230518-220005.png" group-title="Nasional 2",Indosiar (cb)
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="" group-title="Indonesia",ID: 24/7 Angry Birds Toons
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298493
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="" group-title="Indonesia",ID: 24/7 BabyBus Indonesia
@@ -1603,21 +1581,21 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4370
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/4371
 #EXTINF:-1 tvg-id="BeInSportMax10.fr" tvg-name="FR: beIN Sports Max 10" tvg-logo="" group-title="BeinSport",FR: beIN Sports Max 10
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/6088
-#EXTINF:-1 tvg-id="ext" tvg-name="DE: DAZN 1" tvg-logo="" group-title="DAZN",DE: DAZN 1
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 DE" tvg-logo="https://i.postimg.cc/HksMnM1M/tv-station-dazn-1-deutschland-2703.png" group-title="DAZN",DAZN 1 DE
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/48355
-#EXTINF:-1 tvg-id="ext" tvg-name="DE: DAZN 2" tvg-logo="" group-title="DAZN",DE: DAZN 2
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN",DAZN 2 DE
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2387
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: DAZN 1" tvg-logo="" group-title="DAZN",ES: DAZN 1
+#EXTINF:-1 tvg-id="ext" tvg-name="ES: DAZN 1" tvg-logo="https://www.dthsat.com/images/Dazn-1-TV-Logo.png" group-title="DAZN",ES: DAZN 1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/64711
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: DAZN 2" tvg-logo="" group-title="DAZN",ES: DAZN 2
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2" tvg-logo="https://i.postimg.cc/RF7RjD6n/ezgif-5-dc11014a29.png" group-title="DAZN",DAZN 2
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/64712
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: DAZN 3" tvg-logo="" group-title="DAZN",ES: DAZN 3
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic523.jpg" group-title="DAZN",DAZN 3
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/269912
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: DAZN 4" tvg-logo="" group-title="DAZN",ES: DAZN 4
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4" tvg-logo="https://i.postimg.cc/4Nx29tXF/ezgif-4-ea78eb06f5.png" group-title="DAZN",DAZN 4
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/269911
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: DAZN F1" tvg-logo="" group-title="DAZN",ES: DAZN F1
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN",DAZN F1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1672
-#EXTINF:-1 tvg-id="ext" tvg-name="ES: DAZN LaLiga" tvg-logo="" group-title="DAZN",ES: DAZN LaLiga
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/DAZN_LaLiga_logo.svg" group-title="DAZN",DAZN LaLiga
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/297787
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: TVRI World" tvg-logo="" group-title="TVRI Grup",ID: TVRI World
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/295291
