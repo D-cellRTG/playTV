@@ -23,7 +23,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157579
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165060
 #EXTINF:-1 tvg-id="ext" tvg-name="Metro TV" tvg-logo="https://3.bp.blogspot.com/-v_1lei3E3Fg/W-7DUIvKeAI/AAAAAAAAFAA/dC0JphZUqCY_jqRIyo6N5J-eiUK_5HYEwCLcBGAs/w1200-h630-p-k-no-nu/MetroTV.png" group-title="TV Nasional",Metro TV
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165059
-#EXTINF:-1 tvg-id="ext" tvg-name="Berita Satu" tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/f/f1/BeritaSatu_(Stacked).svg/revision/latest?cb=20221014063224" group-title="TV Nasional",Berita Satu
+#EXTINF:-1 tvg-id="ext" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/1200px-BTV_%28Indonesia%29_logo.svg.png" group-title="TV Nasional",BTV
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162513
 #EXTINF:-1 tvg-id="ext" tvg-name="RCTI" tvg-logo="" group-title="NATIONAL TV",RCTI
 https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
@@ -1467,7 +1467,7 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197965
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264801
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Movies ID",HBO ID
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197972
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Family ID" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/HBO_Family_Asia_2009.svg/revision/latest?cb=20201126030257" group-title="Movies ID",HBO Family ID
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Family ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies ID",HBO Family ID
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197055
 #EXTINF:-1 tvg-id="ext" tvg-name="HBO Hits ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies ID",HBO Hits ID
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/196480
