@@ -8418,6 +8418,16 @@
       "cid": 18,
       "name": "Mumun (CAM) (2022)",
       "stream_url": "http://23.226.71.76/kn3lPeeBYGh9aSU1w3ezBd4Izw7rxjzIkg6zzO8M4a7eO9XXxNCvGiuxWEXsm7sQMDoHe4BGvgKdCcpSYhoH0g/1n2ms5rpXJx4CM5t6suss1MY-qWo2yrf8QCE3avP7qA/video.m3u8"
-    }
+    },
+	{
+      "cid": 19,
+      "name": "Black Knight S01 E01",
+      "stream_url": "http://starshare.live:8080/series/10273710838302/376302948448/155375.mkv"
+    },
+	{
+			"cid": 19,
+			"name": "Black Knight S01 E02",
+			"stream_url": "http://starshare.live:8080/series/10273710838302/376302948448/155376.mkv"
+	}
   ]
 }
