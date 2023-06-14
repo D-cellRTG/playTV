@@ -1,8 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: TVRI" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="TV Nasional",ID: TVRI
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/162504
 #EXTINF:-1 tvg-id="ext" tvg-name="RCTI FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="TV Nasional",RCTI FHD
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157591
 #EXTINF:-1 tvg-id="ext" tvg-name="RCTI" tvg-logo="https://e7.pngegg.com/pngimages/499/465/png-clipart-rcti-logo-streaming-media-television-media-nusantara-citra-televisi-indonesia-television-blue.png" group-title="TV Nasional",RCTI
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157591
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI (T)
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SCTV FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="TV Nasional",SCTV FHD
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/162141
 #EXTINF:-1 tvg-id="ext" tvg-name="SCTV" tvg-logo="https://assets.ayobandung.com/crop/0x0:0x0/750x500/webp/photo/2021/11/18/1142966277.jpg" group-title="TV Nasional",SCTV
@@ -49,14 +53,12 @@ http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157578
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157578
 #EXTINF:-1 tvg-id="ext" tvg-name="INews" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/INews_TV_logo.svg/1200px-INews_TV_logo.svg.png" group-title="TV Nasional",INews
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157579
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="TV Nasional",ID: TVN
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="TV Nasional",TVN
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197965
 #EXTINF:-1 tvg-id="ext" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_(Indonesia)_logo.svg/1200px-BTV_(Indonesia)_logo.svg.png" group-title="TV Nasional",BTV
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162513
 #EXTINF:-1 tvg-id="ext" tvg-name="Kompas TV" tvg-logo="https://e7.pngegg.com/pngimages/310/692/png-clipart-kompas-tv-television-indonesia-news-kompas-television-angle-thumbnail.png" group-title="TV Nasional",Kompas TV
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165060
-#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="TV Nasional",RCTI (T)
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="JTV (F)" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jtv_id.png" group-title="TV Nasional",JTV (F)
 https://github.com/mimipipi22/nontontv/raw/main/FMX/jtv.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Metro TV" tvg-logo="https://3.bp.blogspot.com/-v_1lei3E3Fg/W-7DUIvKeAI/AAAAAAAAFAA/dC0JphZUqCY_jqRIyo6N5J-eiUK_5HYEwCLcBGAs/w1200-h630-p-k-no-nu/MetroTV.png" group-title="TV Nasional",Metro TV
@@ -93,8 +95,250 @@ http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157579
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165060
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: Rajawali TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="TV Nasional",ID: Rajawali TV
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/196457
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: TVRI" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="TV Nasional",ID: TVRI
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/162504
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: ZooMoo" tvg-logo="" group-title="KIDS ID",ID: ZooMoo
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264751
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="" group-title="KIDS ID",ID: 24/7 Angry Birds Toons
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298493
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="" group-title="KIDS ID",ID: 24/7 BabyBus Indonesia
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298494
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="" group-title="KIDS ID",ID: 24/7 Donald Ducks
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298495
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Doraemon" tvg-logo="" group-title="KIDS ID",ID: 24/7 Doraemon
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298496
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="" group-title="KIDS ID",ID: 24/7 Just For Laughs
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298497
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="" group-title="KIDS ID",ID: 24/7 Mr Bean Cartoon
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298498
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="" group-title="KIDS ID",ID: 24/7 Mr. Bean Classic
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298499
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="" group-title="KIDS ID",ID: 24/7 Tom And Jerry
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298500
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="" group-title="KIDS ID",ID: 24/7 Upin Ipin
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298501
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Animax" tvg-logo="" group-title="KIDS ID",ID: Animax
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165081
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: AniPlus" tvg-logo="" group-title="KIDS ID",ID: AniPlus
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298504
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Baby TV" tvg-logo="" group-title="KIDS ID",ID: Baby TV
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157605
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Cartoon Network" tvg-logo="" group-title="KIDS ID",ID: Cartoon Network
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157593
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: CBeebies" tvg-logo="" group-title="KIDS ID",ID: CBeebies
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/247448
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Disney Channel" tvg-logo="" group-title="KIDS ID",ID: Disney Channel
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165075
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Disney Junior" tvg-logo="" group-title="KIDS ID",ID: Disney Junior
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162511
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Disney XD" tvg-logo="" group-title="KIDS ID",ID: Disney XD
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/276564
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: DreamWorks" tvg-logo="" group-title="KIDS ID",ID: DreamWorks
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157610
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Dunia Anak" tvg-logo="" group-title="KIDS ID",ID: Dunia Anak
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264753
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Hip Hip Horee!" tvg-logo="" group-title="KIDS ID",ID: Hip Hip Horee!
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298536
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Horee!" tvg-logo="" group-title="KIDS ID",ID: Horee!
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264750
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Indi Kids" tvg-logo="" group-title="KIDS ID",ID: Indi Kids
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298539
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Kids TV" tvg-logo="" group-title="KIDS ID",ID: Kids TV
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162505
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: My Kidz" tvg-logo="" group-title="KIDS ID",ID: My Kidz
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298556
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Nick Jr" tvg-logo="" group-title="KIDS ID",ID: Nick Jr
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165107
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Nick Jr EN" tvg-logo="" group-title="KIDS ID",ID: Nick Jr EN
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298561
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: nickelodeon" tvg-logo="" group-title="KIDS ID",ID: nickelodeon
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162510
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Angry Birds Toons
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298493
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 BabyBus Indonesia
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298494
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Donald Ducks
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298495
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Doraemon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Doraemon
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298496
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Just For Laughs
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298497
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Mr Bean Cartoon
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298498
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Mr. Bean Classic
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298499
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Tom And Jerry
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298500
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Upin Ipin
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298501
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Warkop DKI
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298502
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="KIDS ID",ID: ANIMAL PLANET
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157532
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Animax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="KIDS ID",ID: Animax
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165081
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: AniPlus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="KIDS ID",ID: AniPlus
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298504
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="KIDS ID",ID: Baby TV
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157605
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="KIDS ID",ID: Cartoon Network
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157593
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: CBeebies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="KIDS ID",ID: CBeebies
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/247448
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="KIDS ID",ID: Disney Junior
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/162511
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="KIDS ID",ID: Disney XD
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/276564
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: DreamWorks" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="KIDS ID",ID: DreamWorks
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157610
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Dunia Anak" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="KIDS ID",ID: Dunia Anak
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/264753
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Dunia Lain" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="KIDS ID",ID: Dunia Lain
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298524
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Hip Hip Horee!" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="KIDS ID",ID: Hip Hip Horee!
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298536
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Indi Kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: Indi Kids
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298539
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: My Kidz" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="KIDS ID",ID: My Kidz
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298556
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Nick Jr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="KIDS ID",ID: Nick Jr
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165107
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Nick Jr EN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="KIDS ID",ID: Nick Jr EN
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298561
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="KIDS ID",ID: nickelodeon
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/162510
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: ZooMoo" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="KIDS ID",ID: ZooMoo
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/264751
+#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB.jpg" group-title="Movies ID",Etv Bioskop
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298526
+#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB.jpg" group-title="Movies ID",Etv Bioskop
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298526
+#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop 02" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB2.jpg" group-title="Movies ID",Etv Bioskop 02
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298527
+#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop 02" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB2.jpg" group-title="Movies ID",Etv Bioskop 02
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298527
+#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop 03" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB3.jpg" group-title="Movies ID",Etv Bioskop 03
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298528
+#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop 03" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB3.jpg" group-title="Movies ID",Etv Bioskop 03
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298528
+#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop 04" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB4.jpg" group-title="Movies ID",Etv Bioskop 04
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298529
+#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop 04" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB4.jpg" group-title="Movies ID",Etv Bioskop 04
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298529
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Movies ID",HBO ID
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197972
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies ID",HBO
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197972
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Hits ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies ID",HBO Hits ID
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/196480
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies ID",HBO Hits
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/196480
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Family ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies ID",HBO Family ID
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197055
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies ID",HBO Family
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197055
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Signature ID" tvg-logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="Movies ID",HBO Signature ID
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/221948
+#EXTINF:-1 tvg-id="ext" tvg-name="HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies ID",HBO Signature
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/221948
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax" tvg-logo="" group-title="Movies ID",Cinemax
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197964
+#EXTINF:-1 tvg-id="ext" tvg-name="Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies ID",Cinemax
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197964
+#EXTINF:-1 tvg-id="ext" tvg-name="Galaxy" tvg-logo="https://i0.wp.com/tvfreemium.com/assets/img/logo/galaxy.png" group-title="Movies ID",Galaxy
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264773
+#EXTINF:-1 tvg-id="ext" tvg-name="Galaxy" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="Movies ID",Galaxy
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/264773
+#EXTINF:-1 tvg-id="ext" tvg-name="Galaxy Premium" tvg-logo="https://static.visionplus.id/images/channel/0d4e8c1c/3028.png" group-title="Movies ID",Galaxy Premium
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264774
+#EXTINF:-1 tvg-id="ext" tvg-name="Galaxy Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="Movies ID",Galaxy Premium
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/264774
+#EXTINF:-1 tvg-id="ext" tvg-name="KIX" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="Movies ID",KIX
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165068
+#EXTINF:-1 tvg-id="ext" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KIX_logo.jpg" group-title="Movies ID",KIX
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165068
+#EXTINF:-1 tvg-id="ext" tvg-name="Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="Movies ID",Celestial Movies
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165065
+#EXTINF:-1 tvg-id="ext" tvg-name="Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="Movies ID",Celestial Movies
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165065
+#EXTINF:-1 tvg-id="ext" tvg-name="CinemaWorld" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Movies ID",CinemaWorld
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165082
+#EXTINF:-1 tvg-id="ext" tvg-name="CinemaWorld" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Movies ID",CinemaWorld
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165082
+#EXTINF:-1 tvg-id="ext" tvg-name="Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="Movies ID",Citra Bioskop
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298519
+#EXTINF:-1 tvg-id="ext" tvg-name="Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="Movies ID",Citra Bioskop
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298519
+#EXTINF:-1 tvg-id="ext" tvg-name="Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="Movies ID",Citra Drama
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/264748
+#EXTINF:-1 tvg-id="ext" tvg-name="Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="Movies ID",Citra Drama
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264748
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: TVN Movies" tvg-logo="" group-title="Movies ID",ID: TVN Movies
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157596
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Thrill" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Movies ID",ID: Thrill
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157580
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="Movies ID",ID: Hits
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165085
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Hits Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Movies ID",ID: Hits Movies
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/221947
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: K+" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="Movies ID",ID: K+
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197969
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="Movies ID",ID: Paramount Network
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298564
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Rock Action" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="Movies ID",ID: Rock Action
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298490
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Rock Entertaiment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="Movies ID",ID: Rock Entertaiment
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298565
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Rock Extreme" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies ID",ID: Rock Extreme
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298566
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Movies ID",ID: TVN Movies
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157596
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Vision Prime" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="Movies ID",ID: Vision Prime
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197958
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="Movies ID",ID: Warner TV
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157594
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Movies ID",ID: Zee Bioskop
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157584
+#EXTINF:-1 tvg-id="ext" tvg-name="Bioskop Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="Movies ID",Bioskop Indonesia
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264801
+#EXTINF:-1 tvg-id="ext" tvg-name="FLIK" tvg-logo="https://2.bp.blogspot.com/-6Pk41U_qeN8/Vrq1QgMhk9I/AAAAAAAAVqI/eElw8bnfEMw/s479-Ic42/Flik%20TV.png" group-title="Movies ID",FLIK
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165095
+#EXTINF:-1 tvg-id="ext" tvg-name="Fox Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/2560px-Fox_Crime_logo.svg.png" group-title="Movies ID",Fox Crime
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165076
+#EXTINF:-1 tvg-id="ext" tvg-name="FXX" tvg-logo="https://w7.pngwing.com/pngs/384/134/png-transparent-fxx-logo-television-channel-freeform-select-television-angle-text.png" group-title="Movies ID",FXX
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298575
+#EXTINF:-1 tvg-id="ext" tvg-name="Hits" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="Movies ID",Hits
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165085
+#EXTINF:-1 tvg-id="ext" tvg-name="Hits Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movies ID",Hits Movies
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/221947
+#EXTINF:-1 tvg-id="ext" tvg-name="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="Movies ID",K+
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197969
+#EXTINF:-1 tvg-id="ext" tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="Movies ID",My Cinema
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298553
+#EXTINF:-1 tvg-id="ext" tvg-name="My Cinema Asia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="Movies ID",My Cinema Asia
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298554
+#EXTINF:-1 tvg-id="ext" tvg-name="My Family" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title="Movies ID",My Family
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298555
+#EXTINF:-1 tvg-id="ext" tvg-name="Rock Action" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1670831772-.png" group-title="Movies ID",Rock Action
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298490
+#EXTINF:-1 tvg-id="ext" tvg-name="Rock Entertaiment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Movies ID",Rock Entertaiment
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298565
+#EXTINF:-1 tvg-id="ext" tvg-name="Rock Extreme" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2020/01/rock-extreme.jpeg" group-title="Movies ID",Rock Extreme
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298566
+#EXTINF:-1 tvg-id="ext" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Movies ID",Thrill
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157580
+#EXTINF:-1 tvg-id="ext" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/2b/Vision_Prime_2020.png/300px-Vision_Prime_2020.png" group-title="Movies ID",Vision Prime
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197958
+#EXTINF:-1 tvg-id="ext" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/170px-Warner_Channel.svg.png" group-title="Movies ID",Warner TV
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157594
+#EXTINF:-1 tvg-id="ext" tvg-name="Zee Bioskop" tvg-logo="https://www.transvision.co.id/img/channel/zee.png" group-title="Movies ID",Zee Bioskop
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157584
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="" group-title="Movies ID",ID: 24/7 Warkop DKI
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298502
+#EXTINF:-1 tvg-id="ext" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="Movies ID",TVN
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197965
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Chinese Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies ID",ID: Chinese Drama
+http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298516
+#EXTINF:-1 tvg-id="ext" tvg-name="ID: Chinese Drama" tvg-logo="" group-title="Movies ID",ID: Chinese Drama
+http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298516
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: ANIMAL PLANET" tvg-logo="" group-title="Indonesia",ID: ANIMAL PLANET
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157532
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: Arirang" tvg-logo="" group-title="Indonesia",ID: Arirang
@@ -305,26 +549,14 @@ http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165109
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298507
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: CCM" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="Indonesia",ID: CCM
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165103
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="Indonesia",ID: Celestial Movies
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165065
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: CGTN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="Indonesia",ID: CGTN
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298510
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: CGTN Documentary" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="Indonesia",ID: CGTN Documentary
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298511
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: Channel News Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="Indonesia",ID: Channel News Asia
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157602
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Chinese Drama" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Chinese Drama
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298516
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: CinemaWorld" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="Indonesia",ID: CinemaWorld
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165082
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Indonesia",ID: Cinemax
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197964
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="Indonesia",ID: Citra Bioskop
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298519
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: Citra Dangdut" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="Indonesia",ID: Citra Dangdut
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/247446
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Citra Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="Indonesia",ID: Citra Drama
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/264748
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: Citra Entertainment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="Indonesia",ID: Citra Entertainment
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298520
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: CNBC Indonesia" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="Indonesia",ID: CNBC Indonesia
@@ -495,238 +727,6 @@ http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/162524
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298577
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: Usee Sport 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Indonesia",ID: Usee Sport 2
 http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298578
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: ZooMoo" tvg-logo="" group-title="KIDS ID",ID: ZooMoo
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264751
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="" group-title="KIDS ID",ID: 24/7 Angry Birds Toons
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298493
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="" group-title="KIDS ID",ID: 24/7 BabyBus Indonesia
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298494
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="" group-title="KIDS ID",ID: 24/7 Donald Ducks
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298495
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Doraemon" tvg-logo="" group-title="KIDS ID",ID: 24/7 Doraemon
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298496
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="" group-title="KIDS ID",ID: 24/7 Just For Laughs
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298497
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="" group-title="KIDS ID",ID: 24/7 Mr Bean Cartoon
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298498
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="" group-title="KIDS ID",ID: 24/7 Mr. Bean Classic
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298499
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="" group-title="KIDS ID",ID: 24/7 Tom And Jerry
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298500
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="" group-title="KIDS ID",ID: 24/7 Upin Ipin
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298501
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Animax" tvg-logo="" group-title="KIDS ID",ID: Animax
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165081
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: AniPlus" tvg-logo="" group-title="KIDS ID",ID: AniPlus
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298504
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Baby TV" tvg-logo="" group-title="KIDS ID",ID: Baby TV
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157605
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Cartoon Network" tvg-logo="" group-title="KIDS ID",ID: Cartoon Network
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157593
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: CBeebies" tvg-logo="" group-title="KIDS ID",ID: CBeebies
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/247448
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Disney Channel" tvg-logo="" group-title="KIDS ID",ID: Disney Channel
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165075
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Disney Junior" tvg-logo="" group-title="KIDS ID",ID: Disney Junior
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162511
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Disney XD" tvg-logo="" group-title="KIDS ID",ID: Disney XD
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/276564
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: DreamWorks" tvg-logo="" group-title="KIDS ID",ID: DreamWorks
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157610
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Dunia Anak" tvg-logo="" group-title="KIDS ID",ID: Dunia Anak
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264753
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Hip Hip Horee!" tvg-logo="" group-title="KIDS ID",ID: Hip Hip Horee!
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298536
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Horee!" tvg-logo="" group-title="KIDS ID",ID: Horee!
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264750
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Indi Kids" tvg-logo="" group-title="KIDS ID",ID: Indi Kids
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298539
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Kids TV" tvg-logo="" group-title="KIDS ID",ID: Kids TV
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162505
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: My Kidz" tvg-logo="" group-title="KIDS ID",ID: My Kidz
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298556
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Nick Jr" tvg-logo="" group-title="KIDS ID",ID: Nick Jr
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165107
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Nick Jr EN" tvg-logo="" group-title="KIDS ID",ID: Nick Jr EN
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298561
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: nickelodeon" tvg-logo="" group-title="KIDS ID",ID: nickelodeon
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/162510
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Angry Birds Toons
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298493
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 BabyBus Indonesia
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298494
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Donald Ducks
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298495
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Doraemon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Doraemon
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298496
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Just For Laughs
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298497
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Mr Bean Cartoon
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298498
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Mr. Bean Classic
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298499
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Tom And Jerry
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298500
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Upin Ipin
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298501
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: 24/7 Warkop DKI
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298502
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: ANIMAL PLANET" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="KIDS ID",ID: ANIMAL PLANET
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157532
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Animax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="KIDS ID",ID: Animax
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165081
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: AniPlus" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="KIDS ID",ID: AniPlus
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298504
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="KIDS ID",ID: Baby TV
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157605
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="KIDS ID",ID: Cartoon Network
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157593
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: CBeebies" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="KIDS ID",ID: CBeebies
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/247448
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="KIDS ID",ID: Disney Junior
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/162511
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="KIDS ID",ID: Disney XD
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/276564
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: DreamWorks" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="KIDS ID",ID: DreamWorks
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157610
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Dunia Anak" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="KIDS ID",ID: Dunia Anak
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/264753
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Dunia Lain" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="KIDS ID",ID: Dunia Lain
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298524
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Hip Hip Horee!" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="KIDS ID",ID: Hip Hip Horee!
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298536
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Indi Kids" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="KIDS ID",ID: Indi Kids
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298539
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: My Kidz" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="KIDS ID",ID: My Kidz
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298556
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Nick Jr" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="KIDS ID",ID: Nick Jr
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165107
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Nick Jr EN" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="KIDS ID",ID: Nick Jr EN
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298561
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="KIDS ID",ID: nickelodeon
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/162510
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: ZooMoo" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="KIDS ID",ID: ZooMoo
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/264751
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="" group-title="Movies ID",ID: 24/7 Warkop DKI
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298502
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Celestial Movies" tvg-logo="" group-title="Movies ID",ID: Celestial Movies
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165065
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Chinese Drama" tvg-logo="" group-title="Movies ID",ID: Chinese Drama
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298516
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: CinemaWorld" tvg-logo="" group-title="Movies ID",ID: CinemaWorld
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165082
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Cinemax" tvg-logo="" group-title="Movies ID",ID: Cinemax
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197964
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Citra Bioskop" tvg-logo="" group-title="Movies ID",ID: Citra Bioskop
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298519
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Citra Drama" tvg-logo="" group-title="Movies ID",ID: Citra Drama
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264748
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: TVN Movies" tvg-logo="" group-title="Movies ID",ID: TVN Movies
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157596
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Thrill" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="Movies ID",ID: Thrill
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157580
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Etv Bioskop" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies ID",ID: Etv Bioskop
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298526
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Etv Bioskop 02" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies ID",ID: Etv Bioskop 02
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298527
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Etv Bioskop 03" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies ID",ID: Etv Bioskop 03
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298528
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Etv Bioskop 04" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies ID",ID: Etv Bioskop 04
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298529
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="Movies ID",ID: Galaxy
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/264773
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Galaxy Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="Movies ID",ID: Galaxy Premium
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/264774
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: HBO" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="Movies ID",ID: HBO
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197972
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: HBO Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="Movies ID",ID: HBO Family
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197055
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: HBO Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="Movies ID",ID: HBO Hits
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/196480
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: HBO Signature" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="Movies ID",ID: HBO Signature
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/221948
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="Movies ID",ID: Hits
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165085
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Hits Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="Movies ID",ID: Hits Movies
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/221947
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: K+" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="Movies ID",ID: K+
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197969
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: KIX" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="Movies ID",ID: KIX
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/165068
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Paramount Network" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="Movies ID",ID: Paramount Network
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298564
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Rock Action" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="Movies ID",ID: Rock Action
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298490
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Rock Entertaiment" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="Movies ID",ID: Rock Entertaiment
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298565
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Rock Extreme" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="Movies ID",ID: Rock Extreme
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/298566
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="Movies ID",ID: TVN Movies
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157596
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Vision Prime" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="Movies ID",ID: Vision Prime
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/197958
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="Movies ID",ID: Warner TV
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157594
-#EXTINF:-1 tvg-id="ext" tvg-name="ID: Zee Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="Movies ID",ID: Zee Bioskop
-http://aflaxtv.xyz:8080/gerard/WrzTcsRqNRBft7bL/157584
-#EXTINF:-1 tvg-id="ext" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png" group-title="Movies ID",TVN
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197965
-#EXTINF:-1 tvg-id="ext" tvg-name="Bioskop Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="Movies ID",Bioskop Indonesia
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264801
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Movies ID",HBO ID
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197972
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Family ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="Movies ID",HBO Family ID
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197055
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Hits ID" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Movies ID",HBO Hits ID
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/196480
-#EXTINF:-1 tvg-id="ext" tvg-name="HBO Signature ID" tvg-logo="https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png" group-title="Movies ID",HBO Signature ID
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/221948
-#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB.jpg" group-title="Movies ID",Etv Bioskop
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298526
-#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop 02" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB2.jpg" group-title="Movies ID",Etv Bioskop 02
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298527
-#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop 03" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB3.jpg" group-title="Movies ID",Etv Bioskop 03
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298528
-#EXTINF:-1 tvg-id="ext" tvg-name="Etv Bioskop 04" tvg-logo="https://raw.githubusercontent.com/D-cellRTG/playTV/main/ETVB4.jpg" group-title="Movies ID",Etv Bioskop 04
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298529
-#EXTINF:-1 tvg-id="ext" tvg-name="FLIK" tvg-logo="https://2.bp.blogspot.com/-6Pk41U_qeN8/Vrq1QgMhk9I/AAAAAAAAVqI/eElw8bnfEMw/s479-Ic42/Flik%20TV.png" group-title="Movies ID",FLIK
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165095
-#EXTINF:-1 tvg-id="ext" tvg-name="Fox Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Fox_Crime_logo.svg/2560px-Fox_Crime_logo.svg.png" group-title="Movies ID",Fox Crime
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165076
-#EXTINF:-1 tvg-id="ext" tvg-name="FXX" tvg-logo="https://w7.pngwing.com/pngs/384/134/png-transparent-fxx-logo-television-channel-freeform-select-television-angle-text.png" group-title="Movies ID",FXX
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298575
-#EXTINF:-1 tvg-id="ext" tvg-name="Galaxy" tvg-logo="https://i0.wp.com/tvfreemium.com/assets/img/logo/galaxy.png" group-title="Movies ID",Galaxy
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264773
-#EXTINF:-1 tvg-id="ext" tvg-name="Galaxy Premium" tvg-logo="https://static.visionplus.id/images/channel/0d4e8c1c/3028.png" group-title="Movies ID",Galaxy Premium
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/264774
-#EXTINF:-1 tvg-id="ext" tvg-name="Hits" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_160.jpg" group-title="Movies ID",Hits
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165085
-#EXTINF:-1 tvg-id="ext" tvg-name="Hits Movies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_169.png" group-title="Movies ID",Hits Movies
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/221947
-#EXTINF:-1 tvg-id="ext" tvg-name="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="Movies ID",K+
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197969
-#EXTINF:-1 tvg-id="ext" tvg-name="KIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/KIX_logo.jpg" group-title="Movies ID",KIX
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/165068
-#EXTINF:-1 tvg-id="ext" tvg-name="My Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/My_Cinema_Logo_kedua.png" group-title="Movies ID",My Cinema
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298553
-#EXTINF:-1 tvg-id="ext" tvg-name="My Cinema Asia" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_17.jpg" group-title="Movies ID",My Cinema Asia
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298554
-#EXTINF:-1 tvg-id="ext" tvg-name="My Family" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title="Movies ID",My Family
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298555
-#EXTINF:-1 tvg-id="ext" tvg-name="Rock Action" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1670831772-.png" group-title="Movies ID",Rock Action
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298490
-#EXTINF:-1 tvg-id="ext" tvg-name="Rock Entertaiment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="Movies ID",Rock Entertaiment
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298565
-#EXTINF:-1 tvg-id="ext" tvg-name="Rock Extreme" tvg-logo="https://myrepublic.co.id/wp-content/uploads/2020/01/rock-extreme.jpeg" group-title="Movies ID",Rock Extreme
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298566
-#EXTINF:-1 tvg-id="ext" tvg-name="Thrill" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="Movies ID",Thrill
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157580
-#EXTINF:-1 tvg-id="ext" tvg-name="Vision Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/2b/Vision_Prime_2020.png/300px-Vision_Prime_2020.png" group-title="Movies ID",Vision Prime
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/197958
-#EXTINF:-1 tvg-id="ext" tvg-name="Warner TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/170px-Warner_Channel.svg.png" group-title="Movies ID",Warner TV
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157594
-#EXTINF:-1 tvg-id="ext" tvg-name="Zee Bioskop" tvg-logo="https://www.transvision.co.id/img/channel/zee.png" group-title="Movies ID",Zee Bioskop
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/157584
 #EXTINF:-1 tvg-id="ext" tvg-name="FR: CANAL+ FORMULE 1" tvg-logo="" group-title="Sport 2",FR: CANAL+ FORMULE 1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/295260
 #EXTINF:-1 tvg-id="ext" tvg-name="FR: Canal+ MotoGP" tvg-logo="" group-title="Sport 2",FR: Canal+ MotoGP
@@ -2391,40 +2391,6 @@ http://116.254.112.74/hls/cakralive.m3u8
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Garuda TV" tvg-logo="" group-title="TV DAERAH",Garuda TV
 http://edge.linknetott.swiftserve.com/channelgroup1/cg002production/ch45/02.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="Bioskop Indonesia" tvg-logo="" group-title="CUBMU",Bioskop Indonesia
-http://watchlive.my.id/4028c6856fd0d66d0170341bf1000905/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="TRANS TV" tvg-logo="" group-title="CUBMU",TRANS TV
-http://watchlive.my.id/4028c685651d7bcc01651f0b6d210096/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="TRANS 7" tvg-logo="" group-title="CUBMU",TRANS 7
-http://watchlive.my.id/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="ANTV" tvg-logo="" group-title="CUBMU",ANTV
-http://watchlive.my.id/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="INDOSIAR" tvg-logo="" group-title="CUBMU",INDOSIAR
-http://watchlive.my.id/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="BALAP" tvg-logo="" group-title="CUBMU",BALAP
-http://watchlive.my.id/4028c6858262bb8001827d52a48a3d55/manifest.mpd
-#EXTINF:-1 tvg-id="bTV.bg" tvg-name="BTV" tvg-logo="" group-title="CUBMU",BTV
-http://watchlive.my.id/4028c68572841ba301729c80f0d63bfc/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="CARTOON TV CLASSIC" tvg-logo="" group-title="CUBMU",CARTOON TV CLASSIC
-http://watchlive.my.id/4028c685840ff0490184560100c34363/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="CARTOON TV PREMIUM" tvg-logo="" group-title="CUBMU",CARTOON TV PREMIUM
-http://watchlive.my.id/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
-#EXTINF:-1 tvg-id="ClubbingTV.pt" tvg-name="CLUBBING TV" tvg-logo="" group-title="CUBMU",CLUBBING TV
-http://watchlive.my.id/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="CNBC INDONESIA" tvg-logo="" group-title="CUBMU",CNBC INDONESIA
-http://watchlive.my.id/4028c68565fa79ce01665868040a343f/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="CNN INDONESIA" tvg-logo="" group-title="CUBMU",CNN INDONESIA
-http://watchlive.my.id/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="COOKING" tvg-logo="" group-title="CUBMU",COOKING
-http://watchlive.my.id/4028c68582449a2e0182597009c021ef/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="DUNIA ANAK" tvg-logo="" group-title="CUBMU",DUNIA ANAK
-http://watchlive.my.id/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="DUNIA LAIN" tvg-logo="" group-title="CUBMU",DUNIA LAIN
-http://watchlive.my.id/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="FIGHT TV" tvg-logo="" group-title="CUBMU",FIGHT TV
-http://watchlive.my.id/4028c6857fe540a1018060a0c34340b6/manifest.mpd
-#EXTINF:-1 tvg-id="ext" tvg-name="FOOTBALL TV" tvg-logo="" group-title="CUBMU",FOOTBALL TV
-http://watchlive.my.id/4028c68582449a2e0182597777ec21f3/manifest.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="Astro Cricket" tvg-logo="" group-title="Astro Sports",Astro Cricket
 https://webudit.salamus1.lol/lb/premium370/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="Astro SuperSport" tvg-logo="" group-title="Astro Sports",Astro SuperSport
