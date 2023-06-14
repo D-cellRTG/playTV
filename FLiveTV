@@ -1859,29 +1859,29 @@ http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2387
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/64711
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2" tvg-logo="https://i.postimg.cc/RF7RjD6n/ezgif-5-dc11014a29.png" group-title="DAZN",DAZN 2
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/64712
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3" tvg-logo="https://stitichsports.com/tv/images/small_picture/small_pic523.jpg" group-title="DAZN",DAZN 3
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-3-espana-es.png" group-title="DAZN",DAZN 3
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/269912
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN 4" tvg-logo="https://i.postimg.cc/4Nx29tXF/ezgif-4-ea78eb06f5.png" group-title="DAZN",DAZN 4
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/269911
 #EXTINF:-1 tvg-id="ext" tvg-name="DAZN F1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN",DAZN F1
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1672
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/DAZN_LaLiga_logo.svg" group-title="DAZN",DAZN LaLiga
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN LaLiga" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2.png?ssl=1" group-title="DAZN",DAZN LaLiga
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/297787
-#EXTINF:-1 tvg-id="DAZN1BarHD.de" tvg-name="DAZN 1" tvg-logo="" group-title="DAZN",DAZN 1
+#EXTINF:-1 tvg-id="DAZN1BarHD.de" tvg-name="DAZN 1" tvg-logo="https://i.postimg.cc/HksMnM1M/tv-station-dazn-1-deutschland-2703.png" group-title="DAZN",DAZN 1
 https://webudit.salamus1.lol/lb/premium445/index.m3u8
-#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="DAZN 2" tvg-logo="" group-title="DAZN",DAZN 2
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN",DAZN 2
 https://webudit.salamus1.lol/lb/premium446/index.m3u8
-#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="DAZN 3" tvg-logo="" group-title="DAZN",DAZN 3
+#EXTINF:-1 tvg-id="DAZN3.es" tvg-name="DAZN 3" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dazn-3-espana-es.png" group-title="DAZN",DAZN 3
 https://webudit.salamus1.lol/lb/premium447/index.m3u8
-#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="DAZN 4" tvg-logo="" group-title="DAZN",DAZN 4
+#EXTINF:-1 tvg-id="DAZN4.es" tvg-name="DAZN 4" tvg-logo="https://i.postimg.cc/4Nx29tXF/ezgif-4-ea78eb06f5.png" group-title="DAZN",DAZN 4
 https://webudit.salamus1.lol/lb/premium448/index.m3u8
-#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="" group-title="DAZN",DAZN F1
+#EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="DAZN",DAZN F1
 https://webudit.salamus1.lol/lb/premium537/index.m3u8
-#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="DAZN LaLiga" tvg-logo="" group-title="DAZN",DAZN LaLiga
+#EXTINF:-1 tvg-id="DAZNLaLiga.es" tvg-name="DAZN LaLiga" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2.png?ssl=1" group-title="DAZN",DAZN LaLiga
 https://webudit.salamus1.lol/lb/premium538/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 Bar DE" tvg-logo="" group-title="DAZN",DAZN 1 Bar DE
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 1 Bar DE" tvg-logo="https://i.postimg.cc/HksMnM1M/tv-station-dazn-1-deutschland-2703.png" group-title="DAZN",DAZN 1 Bar DE
 https://webudit.salamus1.lol/lb/premium426/index.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 Bar DE" tvg-logo="" group-title="DAZN",DAZN 2 Bar DE
+#EXTINF:-1 tvg-id="ext" tvg-name="DAZN 2 Bar DE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN",DAZN 2 Bar DE
 https://webudit.salamus1.lol/lb/premium427/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ID: TVRI World" tvg-logo="" group-title="TVRI Grup",ID: TVRI World
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/295291
@@ -2866,12 +2866,4 @@ http://stream.radiojar.com/4ywdgup3bnzuv
 #EXTINF:-1 tvg-id="ext" tvg-name="Hitz FM" tvg-logo="" group-title="RADIO",Hitz FM
 http://astro1.rastream.com/hitz
 #EXTINF:-1 tvg-id="avi" tvg-name="RRI Pro 1" tvg-logo="" group-title="RADIO",RRI Pro 1
-https://stream-node1.rri.co.id/streaming/25/9025/rrijakartapro1.mp3
-#EXTINF:-1 tvg-id="ext" tvg-name="delta fm" tvg-logo="" group-title="RADIO",delta fm
-https://rust.mrngroup.co/listen/delta_fm/delta
-#EXTINF:-1 tvg-id="ext" tvg-name="bahana fm" tvg-logo="" group-title="RADIO",bahana fm
-https://stream.cloudmu.id/listen/bahana_fm/stream
-#EXTINF:-1 tvg-id="ext" tvg-name="female radio" tvg-logo="" group-title="RADIO",female radio
-https://stream.cloudmu.id/listen/female_radio/stream
-#EXTINF:-1 tvg-id="ext" tvg-name="Magic 89.9" tvg-logo="" group-title="RADIO ONLINE",Magic 89.9
-https://stream.zeno.fm/fw1368t3vc9uv
+https://stream-node1.rri.co.id/streaming/25/
