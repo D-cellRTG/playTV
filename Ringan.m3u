@@ -8,7 +8,9 @@ https://dl.dropboxusercontent.com/s/60zajmkt8e6iurm/SILAHKAN SCAN QR DIATAS DENG
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-name="TIVI" tvg-logo="https://i.ibb.co/42Yt0Y2/Salinan-dari-Blue-White-Orange-Modern-Business-Workshop-Banner-5.png" group-title="INFORMATION ",TIVI
 https://dl.dropboxusercontent.com/s/0ecli4l2ka04q0j/ssn tivi_6.mp4?dl=0
 #EXTINF:-1 tvg-id="" tvg-name="Indonesia vs Argentina" tvg-logo="" group-title="Live",Indonesia vs Argentina
-https://rplus-f4223f1db405.herokuapp.com/api.php?id=1
+http://139.162.2.216/download/RCTI/hls/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indonesia vs Argentina2" tvg-logo="" group-title="Live",Indonesia vs Argentina2
+http://w.nasvpn.xyz:8080/live/best/best/19396.m3u8
 #EXTINF:-1 tvg-id="BeritaSatu.Id" tvg-name="BTV" tvg-logo="https://i.postimg.cc/JhbMpLFQ/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-30-T132837-624.png" group-title="National",BTV
 https://anevia114.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
 #EXTINF:-1 tvg-id="CNN INDONESIA " tvg-name="CNN INDONESIA" tvg-logo="https://i.postimg.cc/MXk0rM6L/Blue-White-Orange-Modern-Business-Workshop-Banner-2023-05-28-T164305-391.png" group-title="National",CNN INDONESIA
