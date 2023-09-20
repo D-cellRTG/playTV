@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH01" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/640px-2022_Asian_Games_logo.svg.png" group-title="Asian Games Live",Asian Games CH01
+http://103.84.206.91/stream/1/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
+#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH02" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/640px-2022_Asian_Games_logo.svg.png" group-title="Asian Games Live",Asian Games CH02
+http://103.84.206.91/stream/2/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
+#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH03" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/640px-2022_Asian_Games_logo.svg.png" group-title="Asian Games Live",Asian Games CH03
+http://103.84.206.91/stream/3/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
+#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH04" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/640px-2022_Asian_Games_logo.svg.png" group-title="Asian Games Live",Asian Games CH04
+http://103.84.206.91/stream/4/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
+#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH05" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/640px-2022_Asian_Games_logo.svg.png" group-title="Asian Games Live",Asian Games CH05
+http://103.84.206.91/stream/5/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
+#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH06" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/2022_Asian_Games_logo.svg/640px-2022_Asian_Games_logo.svg.png" group-title="Asian Games Live",Asian Games CH06
+http://103.84.206.91/stream/6/index.m3u8?username=vakwEBRTUf&password=LO2Oge1PwC
 #EXTINF:-1 tvg-id="" tvg-name="Moto GP 1" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/motogp-logo_20150911_151044.jpg" group-title="Live Event",Moto GP 1
 http://ccs2.abcnew.site:8880/live/12mmk130041/37199122/2942.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Moto GP 2" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/motogp-logo_20150911_151044.jpg" group-title="Live Event",Moto GP 2
