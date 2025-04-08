@@ -34,7 +34,7 @@ http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298550
 #EXTINF:-1 tvg-id="ext" tvg-name="METRO TV" tvg-logo="https://i.postimg.cc/DybBqtcC/Metro-TV.png" group-title="Lokal",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANS7" tvg-logo="https://i.postimg.cc/QNFRyYb7/Trans7.png" group-title="Lokal",TRANS7
-http://clientsportals.com:2095/vEwx1f3A/mjDHMr0q/54266
+https://live-c.cf.dmcdn.net/sec2(B4sOmbfxANX7q907WS7RXvp-2ya8Sdj27ZnqkMIUDoVuQBWlsjvwMq8AM2D-6VGbdEt_Rns8OzSXvOQ_lFV_ToEPGW8r5fIHHPrafDiTC2C10_X-fV_23kpRWYqgFIKZ)/dm/3/x8qckyq/s/live-720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANS7(*)" tvg-logo="https://i.postimg.cc/QNFRyYb7/Trans7.png" group-title="Lokal",TRANS7(*)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANSTV" tvg-logo="https://i.postimg.cc/vH9CQ1CH/TransTV.png" group-title="Lokal",TRANSTV
