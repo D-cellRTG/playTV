@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Moto GP 1" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/motogp-logo_20150911_151044.jpg" group-title="Live Event",Moto GP 1
-http://ccs2.abcnew.site:8880/live/12mmk130041/37199122/2942.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moto GP 2" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/motogp-logo_20150911_151044.jpg" group-title="Live Event",Moto GP 2
-http://iptvworld.nl:2095/live/z3bMRWwU/jNkB6fcM/48703.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moto GP 3" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/motogp-logo_20150911_151044.jpg" group-title="Live Event",Moto GP 3
-http://ccs2.abcnew.site:8880/live/12mmk130041/37199122/28473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moto GP 4" tvg-logo="" group-title="Live Event",Moto GP 4
-https://s1.strea.ru/index_hd720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Moto GP 4" tvg-logo="https://asset-2.tstatic.net/tribunnews/foto/bank/images/motogp-logo_20150911_151044.jpg" group-title="Live Event",Moto GP 4
-https://s1.strea.ru/index_hd720/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="BERITA SATU WORLD" tvg-logo="https://i.postimg.cc/kMcZp3rf/Berita-Satu-World.png" group-title="Lokal",BERITA SATU WORLD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="ANTV" tvg-logo="https://i.postimg.cc/8CkYBZcj/ANTV.png" group-title="Lokal",ANTV
@@ -34,7 +24,7 @@ http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/298550
 #EXTINF:-1 tvg-id="ext" tvg-name="METRO TV" tvg-logo="https://i.postimg.cc/DybBqtcC/Metro-TV.png" group-title="Lokal",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANS7" tvg-logo="https://i.postimg.cc/QNFRyYb7/Trans7.png" group-title="Lokal",TRANS7
-https://live-c.cf.dmcdn.net/sec2(B4sOmbfxANX7q907WS7RXvp-2ya8Sdj27ZnqkMIUDoVuQBWlsjvwMq8AM2D-6VGbdEt_Rns8OzSXvOQ_lFV_ToEPGW8r5fIHHPrafDiTC2C10_X-fV_23kpRWYqgFIKZ)/dm/3/x8qckyq/s/live-720.m3u8
+https://live-c.cf.dmcdn.net/sec2(1e_eGRgiqFOLnSwlm3CNP5k6kNBJT5dpKi2S2jFHtv91xbZn5cDY1AKar1lHPAUratbqwlxR0fja_1-1u9V5I20e3grKZRx1tbs97u7riR9xSvQRqquTf2ejyvpW4ApL)/dm/3/x8qckyq/s/live-720.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANS7(*)" tvg-logo="https://i.postimg.cc/QNFRyYb7/Trans7.png" group-title="Lokal",TRANS7(*)
 https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="TRANSTV" tvg-logo="https://i.postimg.cc/vH9CQ1CH/TransTV.png" group-title="Lokal",TRANSTV
